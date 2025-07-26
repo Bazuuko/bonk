@@ -139,7 +139,7 @@ function App() {
 
     {
       title: 'How to buy $BAPE?',
-      content: `You can buy $BAPE on the official LetsBonk.Fun site with the official CA (https://letsbonk.fun/token/CAaAaAaAaAaAaAaAaAaA) until the bond curve is filled. After the token is bonded you will be able to buy directly from Jupiter with the token's CA.`
+      content: `You can buy $BAPE on the official LetsBonk.Fun site with the official CA (https://letsbonk.fun/token/6n42GS5QPF1aFnB8BYBgJ6SwNFTgPTxKgLtB9XcSbonk) until the bond curve is filled. After the token is bonded you will be able to buy directly from Jupiter with the token's CA.`
     },
     {
       title: 'What is LetsBonk?',
@@ -279,14 +279,14 @@ function App() {
 
   const handleTelegram = () => {
     window.open(
-      'https://letsbonk.fun/',
+      'https://letsbonk.fun/token/6n42GS5QPF1aFnB8BYBgJ6SwNFTgPTxKgLtB9XcSbonk',
       '_blank'
     );
   };
 
    const handleLaunch = () => {
     window.open(
-      'https://www.launchmynft.io/',
+      'https://launchmynft.io/collections/GgtmjSeJjp4dnxGmyq9fyKdAxdVWX5GzGUeEW8NZzyB2/39WwrbsdJgVGgkYj8GDn',
       '_blank'
     );
   };
