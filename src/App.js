@@ -81,9 +81,9 @@ export const StyledLogo = styled.img`
 
 export const StyledImg = styled.img`
   border-radius: 30px;
-  width: 500px;
+  width: 400px;
   @media (min-width: 2000px) {
-    width: 800px;
+    width: 600px;
   }
   transition: width 0.5s;
 `;
@@ -306,7 +306,7 @@ function App() {
           
           <div className="bar" style={{display:"flex", marginLeft: "100px"}}>
 
-          <div className="option2" style={{marginLeft:"500px"}} onClick={handleLaunch}>
+          <div className="option2" style={{marginLeft:"200px"}} onClick={handleLaunch}>
           <s.TextNav
             style={{
               textAlign: "center",
@@ -381,21 +381,23 @@ function App() {
 
        <s.SpacerLargeX />
 
-<div className="menu1" style={{display:"flex", marginTop:"0px"}}>
+<div className="menu1" style={{display:"flex", marginTop:"-40px"}}>
 
 <StyledImg
         src={"/config/images/monos1.png"}
         style={{
-          marginLeft: "100px"
+          marginLeft: "80px"
         }}
         />
 
     <s.TextTitle 
        style={{
-          fontSize: 70,
+          fontSize: 50,
           fontWeight: "bold",
           textAlign: "center",
-          marginTop:"90px"
+          marginLeft: "10px",
+          marginRight: "10px",
+          marginTop: "60px"
        }}>
           The <b>Bonk Apes</b> arrived to the <c><b>Bonk</b> Ecosystem</c>
         </s.TextTitle>
@@ -403,7 +405,7 @@ function App() {
 <StyledImg
         src={"/config/images/monos2.png"}
         style={{
-          marginRight: "100px"
+          marginRight: "80px"
         }}
         />
 
@@ -414,7 +416,7 @@ function App() {
           fontSize: 30,
           fontWeight: "bold",
           textAlign: "center",
-          marginTop:"-40px",
+          marginTop:"-60px",
        }}>
           CA:
         </s.TextTitle>
@@ -566,7 +568,7 @@ function App() {
         style={{
           textAlign: "center",
           display:"flex",
-          marginLeft:"330px",
+          marginLeft:"150px",
         }}
 
         src={"/config/images/bonkguy.png"}
@@ -591,41 +593,57 @@ function App() {
       <img src="/config/images/dot.png" class="dot" />
       <div class="item">$BAPE</div>
       <img src="/config/images/dot.png" class="dot" />
-      <div class="item">Bonk Apes</div>
+      <div class="item">Bonk!</div>
       <img src="/config/images/dot.png" class="dot" />
-      <div class="item">$BAPE</div>
-      <img src="/config/images/dot.png" class="dot" />
-      <div class="item">Bonk Apes</div>
-      <img src="/config/images/dot.png" class="dot" />
-      <div class="item">$BAPE</div>
+      <div class="item">Get Bonked</div>
       <img src="/config/images/dot.png" class="dot" />
       <div class="item">Bonk Apes</div>
       <img src="/config/images/dot.png" class="dot" />
       <div class="item">$BAPE</div>
       <img src="/config/images/dot.png" class="dot" />
-      <div class="item">Bonk Apes</div>
+      <div class="item">Bonk!</div>
       <img src="/config/images/dot.png" class="dot" />
-      <div class="item">$BAPE</div>
-      <img src="/config/images/dot.png" class="dot" />
-      <div class="item">Bonk Apes</div>
-      <img src="/config/images/dot.png" class="dot" />
-      <div class="item">$BAPE</div>
+      <div class="item">Get Bonked</div>
       <img src="/config/images/dot.png" class="dot" />
       <div class="item">Bonk Apes</div>
       <img src="/config/images/dot.png" class="dot" />
       <div class="item">$BAPE</div>
       <img src="/config/images/dot.png" class="dot" />
-      <div class="item">Bonk Apes</div>
+      <div class="item">Bonk!</div>
       <img src="/config/images/dot.png" class="dot" />
-      <div class="item">$BAPE</div>
-      <img src="/config/images/dot.png" class="dot" />
-      <div class="item">Bonk Apes</div>
-      <img src="/config/images/dot.png" class="dot" />
-      <div class="item">$BAPE</div>
+      <div class="item">Get Bonked</div>
       <img src="/config/images/dot.png" class="dot" />
       <div class="item">Bonk Apes</div>
       <img src="/config/images/dot.png" class="dot" />
       <div class="item">$BAPE</div>
+      <img src="/config/images/dot.png" class="dot" />
+      <div class="item">Bonk!</div>
+      <img src="/config/images/dot.png" class="dot" />
+      <div class="item">Get Bonked</div>
+      <img src="/config/images/dot.png" class="dot" />
+      <div class="item">Bonk Apes</div>
+      <img src="/config/images/dot.png" class="dot" />
+      <div class="item">$BAPE</div>
+      <img src="/config/images/dot.png" class="dot" />
+      <div class="item">Bonk!</div>
+      <img src="/config/images/dot.png" class="dot" />
+      <div class="item">Get Bonked</div>
+      <img src="/config/images/dot.png" class="dot" />
+      <div class="item">Bonk Apes</div>
+      <img src="/config/images/dot.png" class="dot" />
+      <div class="item">$BAPE</div>
+      <img src="/config/images/dot.png" class="dot" />
+      <div class="item">Bonk!</div>
+      <img src="/config/images/dot.png" class="dot" />
+      <div class="item">Get Bonked</div>
+      <img src="/config/images/dot.png" class="dot" />
+      <div class="item">Bonk Apes</div>
+      <img src="/config/images/dot.png" class="dot" />
+      <div class="item">$BAPE</div>
+      <img src="/config/images/dot.png" class="dot" />
+      <div class="item">Bonk!</div>
+      <img src="/config/images/dot.png" class="dot" />
+      <div class="item">Get Bonked</div>
       <img src="/config/images/dot.png" class="dot" />
     </div>
     
