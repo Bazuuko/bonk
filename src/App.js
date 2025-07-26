@@ -279,14 +279,14 @@ function App() {
 
   const handleTelegram = () => {
     window.open(
-      'https://letsbonk.fun/',
+      'https://letsbonk.fun/token/6n42GS5QPF1aFnB8BYBgJ6SwNFTgPTxKgLtB9XcSbonk',
       '_blank'
     );
   };
 
    const handleLaunch = () => {
     window.open(
-      'https://www.launchmynft.io/',
+      'https://launchmynft.io/collections/GgtmjSeJjp4dnxGmyq9fyKdAxdVWX5GzGUeEW8NZzyB2/39WwrbsdJgVGgkYj8GDn',
       '_blank'
     );
   };
@@ -428,7 +428,7 @@ function App() {
           marginTop:"0px",
           fontStyle:"italic",
        }}>
-          fsdfsdfdsfsfdsfdsfdsfsfdsfdsfsd
+          6n42GS5QPF1aFnB8BYBgJ6SwNFTgPTxKgLtB9XcSbonk
         </s.TextTitle>
 
 
