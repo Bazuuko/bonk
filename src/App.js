@@ -555,7 +555,7 @@ function App() {
           777 <d>Bonk</d> Apes are now live on the Solana network and the Bonk ecosystem. The project to aims bring the original Bored Ape vibe into <d>Bonk</d> and into its mechanics.
           Taking advantage of the resurgence of interest on NFTs and the creation of an official token through Lets<d>Bonk</d>.Fun (which also helps the growth of tokens in its ecosystem in addition to creator fees!) and it will represent the main token of our community. $BAPE will be issued through our future staking system, in which you can stake your <d>Bonk</d> Apes and obtain yield<br></br>
           <br></br>
-          The official contract of our token is only the following: oha3mwwm2tqWRouJ2KGUiz4Vz9FCRcPm1fApm87bonk<br></br><br></br>
+          The official contract of our token is only the following: 6n42GS5QPF1aFnB8BYBgJ6SwNFTgPTxKgLtB9XcSbonk<br></br><br></br>
           
           70% of the mint revenue will be used for buyback of our $BAPE token, 20% on marketing, 5% on BONK buyback and 5% for our dev.<br></br>
 
