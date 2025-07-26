@@ -279,14 +279,14 @@ function App() {
 
   const handleTelegram = () => {
     window.open(
-      'https://letsbonk.fun/token/6n42GS5QPF1aFnB8BYBgJ6SwNFTgPTxKgLtB9XcSbonk',
+      'https://letsbonk.fun/',
       '_blank'
     );
   };
 
    const handleLaunch = () => {
     window.open(
-      'https://launchmynft.io/collections/GgtmjSeJjp4dnxGmyq9fyKdAxdVWX5GzGUeEW8NZzyB2/39WwrbsdJgVGgkYj8GDn',
+      'https://www.launchmynft.io/',
       '_blank'
     );
   };
@@ -416,16 +416,16 @@ function App() {
           fontSize: 30,
           fontWeight: "bold",
           textAlign: "center",
-          marginTop:"-60px",
+          marginTop:"-40px",
        }}>
-          CA:
+          <d>$BAPE</d> CA:
         </s.TextTitle>
         <s.TextTitle 
        style={{
           fontSize: 30,
           fontWeight: "300",
           textAlign: "center",
-          marginTop:"0px",
+          marginTop:"10px",
           fontStyle:"italic",
        }}>
           6n42GS5QPF1aFnB8BYBgJ6SwNFTgPTxKgLtB9XcSbonk
